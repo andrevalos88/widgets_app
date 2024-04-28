@@ -18,7 +18,7 @@ class MenuItem{
 const appMenuItems = <MenuItem>[
 MenuItem(title: 'Botones', subTitle: 'Varios botones en flutter', link: '/buttons', icon: Icons.smart_button_outlined),
 MenuItem(title: 'Tarjetas', subTitle: 'Un contenedor estilizado', link: '/cards', icon: Icons.credit_card),
-MenuItem(title: 'ProgressIndicators', subTitle: 'Generales y constrolados', link: '/progress', icon: Icons.refresh_rounded),
-
+MenuItem(title: 'Progress Indicators', subTitle: 'Generales y constrolados', link: '/progress', icon: Icons.refresh_rounded),
+MenuItem(title: 'Snackbars y dialogos', subTitle: 'Indicadores de pantalla', link: '/snackbars', icon: Icons.info_outline),
 
 ];
