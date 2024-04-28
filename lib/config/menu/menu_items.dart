@@ -20,5 +20,6 @@ MenuItem(title: 'Botones', subTitle: 'Varios botones en flutter', link: '/button
 MenuItem(title: 'Tarjetas', subTitle: 'Un contenedor estilizado', link: '/cards', icon: Icons.credit_card),
 MenuItem(title: 'Progress Indicators', subTitle: 'Generales y constrolados', link: '/progress', icon: Icons.refresh_rounded),
 MenuItem(title: 'Snackbars y dialogos', subTitle: 'Indicadores de pantalla', link: '/snackbars', icon: Icons.info_outline),
+MenuItem(title: 'Animated container', subTitle: 'Stateful dget animado', link: '/animated', icon: Icons.check_box_outline_blank_rounded),
 
 ];
