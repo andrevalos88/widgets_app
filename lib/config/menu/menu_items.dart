@@ -21,5 +21,5 @@ MenuItem(title: 'Tarjetas', subTitle: 'Un contenedor estilizado', link: '/cards'
 MenuItem(title: 'Progress Indicators', subTitle: 'Generales y constrolados', link: '/progress', icon: Icons.refresh_rounded),
 MenuItem(title: 'Snackbars y dialogos', subTitle: 'Indicadores de pantalla', link: '/snackbars', icon: Icons.info_outline),
 MenuItem(title: 'Animated container', subTitle: 'Stateful dget animado', link: '/animated', icon: Icons.check_box_outline_blank_rounded),
-
+MenuItem(title: 'UI controls + tiles', subTitle: 'Una serie de controles de Flutter', link: '/ui-controls', icon: Icons.car_rental_outlined),
 ];
