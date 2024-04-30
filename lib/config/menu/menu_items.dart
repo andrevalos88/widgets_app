@@ -23,4 +23,5 @@ MenuItem(title: 'Snackbars y dialogos', subTitle: 'Indicadores de pantalla', lin
 MenuItem(title: 'Animated container', subTitle: 'Stateful dget animado', link: '/animated', icon: Icons.check_box_outline_blank_rounded),
 MenuItem(title: 'UI controls + tiles', subTitle: 'Una serie de controles de Flutter', link: '/ui-controls', icon: Icons.car_rental_outlined),
 MenuItem(title: 'Introduccion a la aplicacion', subTitle: 'pequeño tutorial', link: '/tutorial', icon: Icons.access_alarm_rounded),
+MenuItem(title: 'Infinite Scroll and pull refresh', subTitle: 'Listas infinitas y pull para refresh', link: '/infinite', icon: Icons.list_alt_rounded),
 ];
