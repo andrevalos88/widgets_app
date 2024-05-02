@@ -24,4 +24,6 @@ MenuItem(title: 'Animated container', subTitle: 'Stateful dget animado', link: '
 MenuItem(title: 'UI controls + tiles', subTitle: 'Una serie de controles de Flutter', link: '/ui-controls', icon: Icons.car_rental_outlined),
 MenuItem(title: 'Introduccion a la aplicacion', subTitle: 'pequeño tutorial', link: '/tutorial', icon: Icons.access_alarm_rounded),
 MenuItem(title: 'Infinite Scroll and pull refresh', subTitle: 'Listas infinitas y pull para refresh', link: '/infinite', icon: Icons.list_alt_rounded),
+MenuItem(title: 'Counter', subTitle: 'Counter usando riverpod', link: '/counter', icon: Icons.countertops_rounded),
+MenuItem(title: 'Theme changer', subTitle: 'Cambiar tema de la aplicacion', link: '/theme_changer', icon: Icons.color_lens_outlined),
 ];
